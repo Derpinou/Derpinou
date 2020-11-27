@@ -16,17 +16,18 @@
   <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=flat-square&logo=css3&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="c++" src="https://img.shields.io/badge/-C++-21B500?style=flat-square&logo=c++&logoColor=white" />
+  <img alt="c++" src="https://img.shields.io/badge/-C++-21B500?style=flat-square&logo=C++&logoColor=white" />
   
 </p>
 
 ## 🌍 Programming Tools:
-  <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg">
+<p>
+  <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
     <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
-  <img alt="webstorm" width="50px" src="https://confluence.jetbrains.com/download/thumbnails/51943829/WebStorm_400x400_Twitter_logo_white.png?version=1&modificationDate=1451316090000&api=v2">
-    <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png">
-    <img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg">
-
+  <img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>
+    <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
+    <img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>
+</p>
   
 
 
