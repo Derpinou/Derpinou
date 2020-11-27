@@ -24,7 +24,7 @@
 - [<img src="https://images.discordapp.net/avatars/683956301919027222/21accfeb46803203546b4fd7205ed68f.png?size=512" width="24"/> Atom](https://atom-bot.me)
 
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
 </p>
