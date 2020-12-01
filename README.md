@@ -20,7 +20,7 @@
   
 </p>
 
-## 🌍 Programming Tools:
+## ⚙️ Programming Tools:
 <p>
   <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
     <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
