@@ -36,6 +36,7 @@
 
 ## 🚩 Projects:
 - [<img src="https://images.discordapp.net/avatars/683956301919027222/21accfeb46803203546b4fd7205ed68f.png?size=512" width="24"/> Atom](https://atom-bot.me)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> discord-autorole-badges](https://github.com/Derpinou/discord-autorole-badges)
 
 
 
