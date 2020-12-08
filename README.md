@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [AtomBot](https://github.com/Derpinou/AtomBot)
 - 📫 How to reach me: [Discord](https://discord.gg/j9WzjnA)
-- ⚡ Fun fact: When I code, I create bug
 - 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
 - 🥖 I live in France (baguette ❤)
 
