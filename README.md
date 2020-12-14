@@ -1,5 +1,6 @@
 ### Hi, I'm Derp
 
+[![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/yAYZumWDA4)
 
 
 
