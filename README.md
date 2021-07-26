@@ -35,9 +35,9 @@
 
 
 ## 🚩 Projects:
-- [<img src="https://images.discordapp.net/avatars/683956301919027222/21accfeb46803203546b4fd7205ed68f.png?size=512" width="24"/> Atom](https://atom-bot.me)
+- [<img src="https://cdn.discordapp.com/avatars/683956301919027222/5c5b4763e76735f30745f5b8561c252c.webp?size=2048" width="24"/> Atom](https://atom-bot.me)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> discord-autorole-badges](https://github.com/Derpinou/discord-autorole-badges)
-- [<img src="https://images.discordapp.net/avatars/634818840542445580/eabd1fc9d9165714ad6662e7e6b35705.png?size=512" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
+- [<img src="https://cdn.discordapp.com/avatars/634818840542445580/495185be62673ec0dee617105d09598a.webp?size=2048" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> discord-antiraid](https://github.com/Derpinou/discord-antiraid)
 
 
