@@ -24,7 +24,6 @@
   <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
     <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
   <img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>
-    <img alt="bootstrap" width="50px" src="https://img.icons8.com/color/452/bootstrap.png"/>
     <img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>
 </p>
   
