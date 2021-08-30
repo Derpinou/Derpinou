@@ -1,8 +1,4 @@
-### Hi, I'm Derp
-
-[![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/ahjFrbk2Nr)
-
-
+### Hi, I'm Derp, currently 18 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
 - 🔭 I’m currently working on [ChilledBot](https://chilledbot.xyz)
 - 📫 How to reach me: [Discord](https://discord.gg/j9WzjnA) / [Mail](contact@chilledbot.xyz)
@@ -28,10 +24,6 @@
   [<img alt="pgSQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>](https://www.postgresql.org/)
   [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/en/)
   
-
-
-
-
 
 ## 🚩 Projects:
   | Name             | Link                              | Description                                                            |
