@@ -41,7 +41,7 @@
 - [<img src="https://cdn.discordapp.com/attachments/867496489537241138/871053822741585961/a_2cf966fab68a37a743ccdadc2156cd9d.png" width="24"/> Phasmophobiafr](https://discord.com/invite/phasmophobiafr)
 
 
-<p align="left"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
 </p>
