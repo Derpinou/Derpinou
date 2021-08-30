@@ -22,7 +22,7 @@
 
 ## ⚙️ Programming Tools:
   [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com)
-  [<img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >](https://git-scm.com/)
+  [<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
   [<img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>](https://www.jetbrains.com/webstorm/)
   [<img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>](https://www.jetbrains.com/clion/)
   [<img alt="pgSQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>](https://www.postgresql.org/)
