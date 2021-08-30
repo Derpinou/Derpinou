@@ -34,6 +34,14 @@
 
 
 ## 🚩 Projects:
+  | Name             | Link                              | Description                                                            |
+  |------------------|-----------------------------------|------------------------------------------------------------------------|
+  | ChilledBot       | https://chilledbot.xyz            | A discord bot playing lofi hip hop music 24/7.                         |
+  | AtomBot          | https://discord.gg/uVZdNse        | Bot discord partially abandoned                                        |
+  | discord-antiraid | https://discord-antiraid.js.org   | Discord.js extention library for protect discord servers against Raids |
+  | PhasmophobiaFR   | https://discord.gg/phasmophobiafr | A Discord Partner server referenced by Phasmophobia                    |          
+
+
 - [<img src="https://cdn.discordapp.com/avatars/683956301919027222/5c5b4763e76735f30745f5b8561c252c.webp?size=2048" width="24"/> Atom](https://atom-bot.me)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" width="24"/> discord-autorole-badges](https://github.com/Derpinou/discord-autorole-badges)
 - [<img src="https://cdn.discordapp.com/avatars/634818840542445580/495185be62673ec0dee617105d09598a.webp?size=2048" width="24"/> ChilledBot](https://top.gg/bot/634818840542445580)
