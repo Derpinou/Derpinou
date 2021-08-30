@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I’m currently working on [AtomBot](https://github.com/Derpinou/AtomBot)
-- 📫 How to reach me: [Discord](https://discord.gg/j9WzjnA)
-- 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/fr-fr/)
-- 🥖 I live in France
+- 🔭 I’m currently working on [ChilledBot](https://chilledbot.xyz)
+- 📫 How to reach me: [Discord](https://discord.gg/j9WzjnA) / [Mail](contact@chilledbot.xyz)
+- 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
+- 🥖 I live and study in La Rochelle (France)
 
 
 ## 🌍 Programming languages:
