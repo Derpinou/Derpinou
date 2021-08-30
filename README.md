@@ -17,11 +17,11 @@
   
 ## 💻 FrameWorks:
 
-  #### Css:
+  ### Css:
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
-  #### Js:
+  ### Js:
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
   ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
@@ -63,4 +63,4 @@
 </p>
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Derpinou&show_icons=true&hide_border=true" />
-<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Derpinou}" />
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username={derpinou}" />
