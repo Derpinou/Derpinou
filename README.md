@@ -53,8 +53,7 @@
   |------------------|-----------------------------------|------------------------------------------------------------------------|
   | ChilledBot       | https://chilledbot.xyz            | A discord bot playing lofi hip hop music 24/7.                         |
   | AtomBot          | https://discord.gg/uVZdNse        | Bot discord partially abandoned                                        |
-  | discord-antiraid | https://discord-antiraid.js.org   | Discord.js extention library for protect discord servers against Raids |
-  | PhasmophobiaFR   | https://discord.gg/phasmophobiafr | A Discord Partner server referenced by Phasmophobia                    |          
+  | discord-antiraid | https://discord-antiraid.js.org   | Discord.js extention library for protect discord servers against Raids |      
 
 
 <p align="center"> 
