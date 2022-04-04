@@ -15,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
 ## 💻 FrameWorks:
 
@@ -26,6 +27,7 @@
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   ![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
   ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ## ⚙️ Programming Tools:
 
@@ -43,6 +45,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 🔧 OS :
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -53,9 +57,7 @@
   | Name             | Link                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
   | ChilledBot       | https://chilledbot.xyz            | A discord bot playing lofi hip hop music 24/7.                         |
-  | AtomBot          | https://discord.gg/uVZdNse        | Bot discord partially abandoned                                        |
-  | discord-antiraid | https://discord-antiraid.js.org   | Discord.js extention library for protect discord servers against Raids |      
-  | discord-tickets  | https://discord-tickets.js.org    | Discord.js extention library for manage easily tickets                 |   
+  | AtomBot          | https://discord.gg/uVZdNse        | Bot discord partially abandoned                                        |  
 
 <p align="center"> 
   Visitor count<br>
