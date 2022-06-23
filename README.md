@@ -1,7 +1,7 @@
 ### Hi, I'm Derp, currently 18 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
 
 - 🔭 I’m currently working on [ChilledBot](https://chilledbot.xyz)
-- 📫 How to reach me: [Discord](https://discord.gg/j9WzjnA) / [Mail](contact@chilledbot.xyz)
+- 📫 How to reach me: [Discord](https://discord.gg/ahjFrbk2Nr) / [Mail](contact@chilledbot.xyz)
 - 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
 - 🥖 I live and study in La Rochelle (France)
 
