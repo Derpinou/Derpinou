@@ -7,25 +7,25 @@
 
 
 ## 🌍 Programming languages:
-[![progLang](https://skillicons.dev/icons?i=ts,js,java,html,css,py,cpp,php&theme=dark)](https://skillicons.dev)
+[![progLang](https://skillicons.dev/icons?i=ts,js,java,html,css,py,cpp,php&theme=dark)](https://github.com/derpinou)
 
   
 ## 💻 Frameworks:
 
   ### Css:
-  [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
+  [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/derpinou)
   
   ### Js:
-  [![js](https://skillicons.dev/icons?i=vue,nuxtjs,vite,nestjs&theme=dark)](https://skillicons.dev)
+  [![js](https://skillicons.dev/icons?i=vue,nuxtjs,vite,nestjs&theme=dark)](https://github.com/derpinou)
 
 ## ⚙️ Tools:
 
-  [![tools](https://skillicons.dev/icons?i=git,vscode,regex,idea,maven&theme=dark)](https://skillicons.dev)
+  [![tools](https://skillicons.dev/icons?i=git,vscode,regex,idea,maven&theme=dark)](https://github.com/derpinou)
   
   
   
 ## 📦 Databases:
- [![databases](https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
+ [![databases](https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite,mongodb&theme=dark)](https://github.com/derpinou)
 
 ## 🔧 OS :
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
