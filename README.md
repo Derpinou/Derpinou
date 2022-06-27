@@ -13,32 +13,19 @@
 ## 💻 Frameworks:
 
   ### Css:
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  [![css](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
   
   ### Js:
-  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-  ![ChartJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-  ![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  [![js](https://skillicons.dev/icons?i=vue,nuxtjs,vite,nestjs&theme=dark)](https://skillicons.dev)
 
-## ⚙️ Programming Tools:
+## ⚙️ Tools:
 
-  [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com)
-  [<img alt="git" width="50px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"/>](https://git-scm.com/)
-  [<img alt="webstorm" width="60px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/webstorm-icon-logo.png"/>](https://www.jetbrains.com/webstorm/)
-  [<img alt="clion" width="50px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg"/>](https://www.jetbrains.com/clion/)
-  [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/en/)
+  [![tools](https://skillicons.dev/icons?i=git,vscode,regex,idea,maven&theme=dark)](https://skillicons.dev)
   
   
   
 ## 📦 Databases:
-
-![pgSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+ [![databases](https://skillicons.dev/icons?i=postgres,redis,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)
 
 ## 🔧 OS :
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -50,7 +37,8 @@
   | Name             | Link                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
   | ChilledBot       | https://chilledbot.xyz            | A discord bot playing lofi hip hop music 24/7.                         |
-  | AtomBot          | https://discord.gg/uVZdNse        | Bot discord partially abandoned                                        |  
+  | CryptoWatcherBot | [Top.gg](https://top.gg/bot/956586999102472222)        | Bot discord partially abandoned                   | 
+  | AtomBot          | [Discord](https://discord.gg/uVZdNse)        | Bot discord partially abandoned                             |  
 
 <p align="center"> 
   Visitor count<br>
