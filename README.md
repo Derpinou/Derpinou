@@ -37,7 +37,7 @@
   | Name             | Link                              | Description                                                            |
   |------------------|-----------------------------------|------------------------------------------------------------------------|
   | ChilledBot       | https://chilledbot.xyz            | A discord bot playing lofi hip hop music 24/7.                         |
-  | CryptoWatcherBot | [Top.gg](https://top.gg/bot/956586999102472222)        | Bot discord partially abandoned                   | 
+  | CryptoWatcherBot | [Top.gg](https://top.gg/bot/956586999102472222)        | CryptoWatcher is a bot watching the price of cryptocurrencies.                   | 
   | AtomBot          | [Discord](https://discord.gg/uVZdNse)        | Bot discord partially abandoned                             |  
 
 <p align="center"> 
