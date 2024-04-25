@@ -1,9 +1,9 @@
-### Hi, I'm Derp, currently 18 years old student in computer science, on this github I share my small open source projects, have fun browsing it 
+### Hi, I'm Derp, currently 20 years old Software developer, on this github I share my small open source projects, have fun browsing it 
 
-- 🔭 I’m currently working on [ChilledBot](https://chilledbot.xyz)
-- 📫 How to reach me: [Discord](https://discord.gg/ahjFrbk2Nr) / [Mail](contact@chilledbot.xyz)
-- 💻 I use [Webstorm](https://www.jetbrains.com/fr-fr/webstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
-- 🥖 I live and study in La Rochelle (France)
+- 🔭 I’m currently working on something...
+- 📫 How to reach me: [Discord](https://discord.gg/ahjFrbk2Nr) / @derpinou
+- 💻 I use [Webstorm](https://www.jetbrains.com/phpstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
+- 🥖 I live in La Rochelle (France)
 
 
 ## 🌍 Programming languages:
@@ -33,13 +33,6 @@
  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
  
-## 🚩 Projects:
-  | Name             | Link                              | Description                                                            |
-  |------------------|-----------------------------------|------------------------------------------------------------------------|
-  | ChilledBot       | https://chilledbot.xyz            | A discord bot playing lofi hip hop music 24/7.                         |
-  | CryptoWatcherBot | [Top.gg](https://top.gg/bot/956586999102472222)        | CryptoWatcher is a bot watching the price of cryptocurrencies.                   | 
-  | AtomBot          | [Discord](https://discord.gg/uVZdNse)        | Bot discord partially abandoned                             |  
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
