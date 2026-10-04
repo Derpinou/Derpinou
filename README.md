@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on something...
 - 📫 How to reach me: [Discord](https://discord.gg/ahjFrbk2Nr) / @derpinou
-- 💻 I use [Webstorm](https://www.jetbrains.com/phpstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
+- 💻 I use [PhpStorm](https://www.jetbrains.com/phpstorm/) IDE powered by [JetBrainsIDE](https://www.jetbrains.com/)
 - 🥖 I live in La Rochelle (France)
 
 
